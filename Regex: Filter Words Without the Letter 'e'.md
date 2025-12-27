@@ -31,3 +31,4 @@ print("Words without 'e':", l1)
 
 
 ## Result
+Thus the program executed successfully.
