@@ -18,3 +18,4 @@ print(sum(items))
 <img width="953" height="193" alt="image" src="https://github.com/user-attachments/assets/7ed063e1-4169-463c-863d-cb6b04699fb6" />
 
 ## Result
+Thus the program executed successfully.
